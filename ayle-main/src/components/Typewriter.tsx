@@ -1,9 +1,10 @@
 import { useEffect, useState } from "react";
 
 const lines = [
-  "I build websites, servers & resilient systems.",
-  "I ship fast UIs and calm infrastructure.",
-  "I design software that stays out of the way.",
+  "Gaming, tech, and whatever I'm into.",
+  "Welcome to my corner of the internet.",
+  "Probably messing with something on my PC or PS5.",
+  "I may or may not be a gamer, but I do enjoy gaming.",
 ];
 
 const Typewriter = () => {
